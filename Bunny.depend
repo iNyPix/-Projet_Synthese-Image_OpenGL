@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1700426073 source:/home/thomas/Documents/Cours_uB/Semestre_5/Synthese_Images/Bunny/bunny.cpp
+	<cstdio>
+	<cstdlib>
+	<jpeglib.h>
+	<cmath>
+	<iostream>
+	<GLUT/glut.h>
+	<GL/freeglut.h>
+
+1700426306 source:/home/thomas/Documents/Cours_uB/Semestre_5/Synthese_Images/BELASSEL_NICOLLE/Bunny/bunny.cpp
+	<cstdio>
+	<cstdlib>
+	<jpeglib.h>
+	<cmath>
+	<iostream>
+	<GLUT/glut.h>
+	<GL/freeglut.h>
+
